@@ -1,4 +1,4 @@
-Hi, I'm [Lucky Tiwari]! 👋
+Hi 👋, I'm Lucky Tiwari! 
 
 I am a Physics graduate with a passion for Data Analytics and Geospatial Machine Learning. I specialize in bridging the gap between complex physical phenomena and data-driven insights, with a particular focus on AgTech and socioeconomic analysis.
 
