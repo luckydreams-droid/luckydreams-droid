@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm [Lucky Tiwari]! 👋
 
-<!--
-**luckydreams-droid/luckydreams-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Physics graduate with a passion for Data Analytics and Geospatial Machine Learning. I specialize in bridging the gap between complex physical phenomena and data-driven insights, with a particular focus on AgTech and socioeconomic analysis.
 
-Here are some ideas to get you started:
+🛠 Tech Stack & Tools
+      Data Analysis: Python (Pandas, NumPy, Scikit-Learn), Excel (Advanced Formulas, Pivot Tables)
+      Business Intelligence: Power BI (Data Modeling, DAX, Interactive Dashboards)
+      Data Visualization: Seaborn, Matplotlib, Plotly
+      Geospatial: Geospatial analysis, Satellite data processing (MODIS, CHIRPS)
+      Expertise: Socioeconomic microdata (MOSPI HCES), Climate/Weather modeling (IBTrACS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Learning
+      Deepening my expertise in Predictive Modeling.
+      Exploring advanced Geospatial Visualization techniques for urban and rural policy planning.
+
+📬 Let's Connect
+      Email: [luckydreams2022@gmail.com]
